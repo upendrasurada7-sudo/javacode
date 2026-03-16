@@ -1,0 +1,5 @@
+Intro
+
+Hi, Im Surada Upendra working as a Senior Software engineer at Newgen Software Technologies where I contributed in building and maintain the services that support critical business processes such as Policy, Proposal, Quote, Endorsement management. We also handle Communications to the customers like Email, SMS, Whatsapp. My expertise includes designing and implementing secure, high-performance backend systems using technologies like Java/Spring Boot. I have strong experience working with databases like Oracle, and integrating third-party services, APIs, and legacy systems common in the insurance domain.
+
+Now im ready to bring my knowledge, Skills and experience into company like yours where i can help in optimize Processes, Improve Efficency, and contribute for long term growth.
